@@ -19,4 +19,4 @@ Calling transferUsdc() !
   1 passing (7s)
 
 
-
+![alt text](https://github.com/leetebbs/ccip_bootcamp_homework/blob/main/Homework_day_3/ccip_image.PNG?raw=true)
