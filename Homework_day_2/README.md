@@ -16,7 +16,7 @@ sourceEnableChain transaction:  0xc707b256f09a426920ecb1c0c33e6ecf78a9ad98ad1f8d
 
 Registration successful:\
 Returned source Lookup address:  0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266\
-Returned source Lookup address:  0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266\
+Returned destination Lookup address:  0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266\
     ✔ Should register alice.ccns on the source chain and check that the registering address is the same on both chains (73ms)
 
 
