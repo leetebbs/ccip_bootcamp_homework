@@ -8,7 +8,7 @@ using the ethers.js estimateGas function
 
   Get gas estimation then call transferUSDC with new gas limit + 10%\
 Estimating gas for transferUsdc() !\
-✔ Estimated gas: 406804
+✔ Estimated gas: 406804\
 ✔ New Gas Limit + 10%:  447484
 Calling transferUsdc() !   \   
 ✔ Transaction successful!\
