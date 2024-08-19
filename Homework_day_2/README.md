@@ -23,4 +23,4 @@ Returned source Lookup address:  0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266\
   1 passing (2s)
 
 
-![alt text](https://github.com/leetebbs/ccip_bootcamp_homework/blob/main/Homework_day_3/ccip_image.PNG?raw=true)
+![alt text](https://github.com/leetebbs/ccip_bootcamp_homework/blob/main/Homework_day_2/ccipCrossChainName.PNG?raw=true)
