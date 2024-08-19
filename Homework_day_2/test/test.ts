@@ -84,7 +84,7 @@ describe("CCIP Cross Chain Name Service - Register Alice, Lookup Alice and Retur
         const sourceLookup = await sourceCrossChainNameServiceLookup.lookup("alice.ccns");
         console.log("Returned source Lookup address: ", sourceLookup);
         const destinationLookup = await destinationCrossChainNameServiceLookup.lookup("alice.ccns");
-        console.log("Returned source Lookup address: ", destinationLookup);
+        console.log("Returned destination Lookup address: ", destinationLookup);
 
         expect(sourceLookup).to.equal(await alice.getAddress());
         expect(destinationLookup).to.equal(await alice.getAddress());
