@@ -5,17 +5,17 @@ using the ethers.js estimateGas function
 # Useage
 
 Rename .env.example to .env\
-Update the params in the .env\
+Update the params in the .env
 
 
-Approve USDC to TransferUSDC.sol\
+Approve USDC to TransferUSDC.sol
 
 In the terminal\
 run\
 npx hardhat run .\scripts\ApproveUSDC.js
 
 
-Run the tests\
+Run the tests
 
 In the terminal\
 run\
