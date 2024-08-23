@@ -86,10 +86,13 @@ describe("Get gas estimation then call transferUSDC with new gas limit + 10%", f
       console.log(error);
     }
 
+    //increase the gas limitby 10%
     gasLimit = (gasEstimate * BigInt(110)) / BigInt(100);
 
     console.log(`${greenCheckmark} New Gas Limit + 10%: `, gasLimit.toString());
     console.log("Calling transferUsdc() !");
+
+    // Call transferUsdc() with the new gas limit
     try {
       const txResponse = await fujiTransferUSDCContract.transferUsdc(
         destinationChainSelector,
