@@ -2,7 +2,7 @@
 
 using the ethers.js estimateGas function
 
-# Useage
+## Usage
 
 Rename .env.example to .env\
 Update the params in the .env
